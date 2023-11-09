@@ -1,4 +1,12 @@
 # Financial-econometrics
+## Lab exercise 1
+#### 1. Let X denote the monthly return on Microsoft stock and Y denote the monthly return on Starbucks stock. Assume that X ~ N(0.05, (0.10)^2) and Y ~ N(0.025, (0.05)^2).
+#### 1-1) Using a grid of values between -0.25 and 0.35, plot the normal curves for X and Y. Make sure that both normal curves are on the same plot.
+
+#### 1-2) Comment on the risk-return tradeoffs for the two stocks.
+
+
+
 ## REPORT #1
 ### 5. Which Profitability Model Would You Use to Determine if a Project Will Be Profitable?
  본 보고서에서 해당 문항을 선정하기까지 중요하게 고려한 점은 해당 문항이 재무분석가의 역할과 가치에 얼마나 긴밀하게 연관되어 있는 가와 팀원들이 학습했던 과목을 포함하여 이번 ‘Financial econometrics’에서 배운 지식을 얼마나 활용할 수 있는 가였다. 
