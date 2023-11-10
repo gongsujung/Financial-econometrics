@@ -6,11 +6,11 @@
 
 아래는 X ~ N(0.05, (0.10)^2)의 정규분포를 나타낸다.
 
-<img width="697" alt="스크린샷 2023-11-09 오후 4 36 31" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/752d5197-3c48-4ff2-8c1b-43569cbe33f0">
+<img width="697" alt="스크린샷 2023-11-09 오후 4 36 31" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/e8632dbd-9bfe-44e5-9abd-638d44678bc2">
 
 아래는 Y ~ N(0.025, (0.05)^2)의 정규분포를 나타낸다.
 
-<img width="704" alt="스크린샷 2023-11-09 오후 4 37 02" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/379ca916-06b4-4d40-9476-32eaffc92238">
+<img width="704" alt="스크린샷 2023-11-09 오후 4 37 02" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/1556802e-88a4-4a75-858a-6f286131b30c">
 
 따라서 두 정규곡선이 동일한 그림을 그리고 있다는 것을 확인할 수 있다.
 
@@ -18,7 +18,7 @@
 
 the graph of risk-return tradeoffs for the two stocks.
 
-<img width="695" alt="스크린샷 2023-11-09 오후 5 15 32" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/0f292c15-c0e4-43ab-a554-986547282389">
+<img width="695" alt="스크린샷 2023-11-09 오후 5 15 32" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/36b03cc9-49c4-4433-b104-4ee8e0a4fd5b">
 
 위 그래프는 Microsoft 자산에 관한 수익률은 검은색 실선으로, Starbucks 자산에 관한 수익률은 파란색 점선으로 나타내고 있으며, 두 자산에 대한 평균을 나타내는 수직선 또한 표시하고 있다.
 
@@ -31,13 +31,13 @@ the graph of risk-return tradeoffs for the two stocks.
 
 아래의 그래프 중 상단의 그래프는 수익률R의 확률밀도함수와 1% VaR을 의미하는 빨간색 선을 나타내고 있고, 하단의 그래프는 초기 투자금액에 대한 확률밀도함수와 1% VaR을 의미하는 빨간색 선을 나타내고 있다.
 
-<img width="699" alt="스크린샷 2023-11-09 오후 7 32 57" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/0263208d-71fc-488d-908d-1c85efb14408">
+<img width="699" alt="스크린샷 2023-11-09 오후 7 32 57" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/7e6d199a-a118-4490-b560-a774428f0fb0">
 
 * VaR.05 = 10803.68
 
 아래의 그래프 중 상단의 그래프는 수익률R의 확률밀도함수와 5% VaR을 의미하는 빨간색 선을 나타내고 있고, 하단의 그래프는 초기 투자금액에 대한 확률밀도함수와 5% VaR을 의미하는 빨간색 선을 나타내고 있다.
 
-<img width="697" alt="스크린샷 2023-11-09 오후 7 23 48" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/d34f04ed-638b-4fbf-a56f-900872df7df4">
+<img width="697" alt="스크린샷 2023-11-09 오후 7 23 48" src="https://github.com/gongsujung/Financial-econometrics/assets/149650350/bd7756fc-a593-4630-a1ce-46de875bfd7e">
 
 #### 3. Let r denote the continuously compounded monthly return on Microsoft stock and let W0 denote initial wealth to be invested over the month. Assume that r ~ iid N(0.04, (0.09)^2) and that W0 = $100,000.
    
