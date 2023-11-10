@@ -49,6 +49,10 @@ the graph of risk-return tradeoffs for the two stocks.
 * VaR.01 = 21751.73
 * VaR.05 = 3228.205
 
+#### 의의
+Lap exercise 1의 2번 문항에서 두 자산의 수익률의 risk-return tradeoffs를 확인할수 있었다.
+이를 통해 우리는 앞으로의 텀페이퍼에서 한 자산에서의 일별, 주별, 월별 수익률 데이터를 비교하는데에 활용할 수 있음을 기대해 본다.
+
 ## REPORT #1
 ### 5. Which Profitability Model Would You Use to Determine if a Project Will Be Profitable?
  본 보고서에서 해당 문항을 선정하기까지 중요하게 고려한 점은 해당 문항이 재무분석가의 역할과 가치에 얼마나 긴밀하게 연관되어 있는 가와 팀원들이 학습했던 과목을 포함하여 이번 ‘Financial econometrics’에서 배운 지식을 얼마나 활용할 수 있는 가였다. 
